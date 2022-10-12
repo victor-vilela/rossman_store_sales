@@ -14,6 +14,16 @@ __pycache__/
 # C extensions
 *.so
 
+#SSH Keys
+sshkey
+sshkey.pub
+
+#notebooks
+notebooks/
+
+#token-telegram
+token-telegram.txt
+
 # Distribution / packaging
 .Python
 build/
